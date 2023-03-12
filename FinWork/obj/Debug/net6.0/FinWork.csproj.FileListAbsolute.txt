@@ -1,0 +1,15 @@
+/Users/xenia_golb/Documents/GB/FinWork/FinWork/bin/Debug/net6.0/FinWork
+/Users/xenia_golb/Documents/GB/FinWork/FinWork/bin/Debug/net6.0/FinWork.deps.json
+/Users/xenia_golb/Documents/GB/FinWork/FinWork/bin/Debug/net6.0/FinWork.runtimeconfig.json
+/Users/xenia_golb/Documents/GB/FinWork/FinWork/bin/Debug/net6.0/FinWork.dll
+/Users/xenia_golb/Documents/GB/FinWork/FinWork/bin/Debug/net6.0/FinWork.pdb
+/Users/xenia_golb/Documents/GB/FinWork/FinWork/obj/Debug/net6.0/FinWork.csproj.AssemblyReference.cache
+/Users/xenia_golb/Documents/GB/FinWork/FinWork/obj/Debug/net6.0/FinWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xenia_golb/Documents/GB/FinWork/FinWork/obj/Debug/net6.0/FinWork.AssemblyInfoInputs.cache
+/Users/xenia_golb/Documents/GB/FinWork/FinWork/obj/Debug/net6.0/FinWork.AssemblyInfo.cs
+/Users/xenia_golb/Documents/GB/FinWork/FinWork/obj/Debug/net6.0/FinWork.csproj.CoreCompileInputs.cache
+/Users/xenia_golb/Documents/GB/FinWork/FinWork/obj/Debug/net6.0/FinWork.dll
+/Users/xenia_golb/Documents/GB/FinWork/FinWork/obj/Debug/net6.0/refint/FinWork.dll
+/Users/xenia_golb/Documents/GB/FinWork/FinWork/obj/Debug/net6.0/FinWork.pdb
+/Users/xenia_golb/Documents/GB/FinWork/FinWork/obj/Debug/net6.0/FinWork.genruntimeconfig.cache
+/Users/xenia_golb/Documents/GB/FinWork/FinWork/obj/Debug/net6.0/ref/FinWork.dll
