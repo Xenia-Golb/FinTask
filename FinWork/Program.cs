@@ -16,7 +16,6 @@ void FindWordInArray(string[] array1, string[] array2)
 void PrintArray(string[] array)
 {
     Console.WriteLine($"[{string.Join(", ", array)}] -> [{string.Join(" ", newArray)}]");
-
 }
 Console.Clear();
 FindWordInArray(array, newArray);
